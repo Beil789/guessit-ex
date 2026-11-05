@@ -11,7 +11,7 @@ const PORT = 3000;
 // postgresql://USER:PASSWORD@HOST:PORT/DATABASE. Change the password to match
 // the one you set when you ran schema.sql.
 const DATABASE_URL =
-  'postgresql://guessit:3e6f345aa974ee57661d87307b968aa4@localhost:5432/guessit';
+'postgresql://guessit:5156249315880c69925feeb7a35278e6@localhost:5432/guessit';
 
 // The colour used for the page's accent (buttons, title). Change it if you
 // like a different look.
